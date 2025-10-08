@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Daniel Moura 
 ** Desenvolvedor .NET  | C# | Desenvolvimento Web | Front-End & Back-End Entusiasta**
 
