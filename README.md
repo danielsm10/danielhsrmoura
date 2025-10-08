@@ -43,7 +43,7 @@ Criado totalmente do zero com **HTML**, **Tailwind**, e integração de **anima�
 
 ### 🌐 Conecte-se comigo 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielsm10)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielHMoura)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-moura10)
 
 ---
