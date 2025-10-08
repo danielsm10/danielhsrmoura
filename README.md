@@ -1,5 +1,5 @@
 ## Daniel Moura 
-** Desenvolvedor .NET  | C# | Desenvolvimento Web | Front-End & Back-End Entusiasta**
+**Desenvolvedor .NET  | C# | Desenvolvimento Web | Front-End & Back-End Entusiasta**
 
 ---
 
