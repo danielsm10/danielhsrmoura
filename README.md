@@ -3,7 +3,7 @@
 
 ---
 
-### 💬 About Me  
+### 💬 Sobre mim  
 Atualmente estudando **.NET** e **C#**, com foco em desenvolvimento de aplicações modernas e escaláveis.  
 Apaixonado por tecnologia, boas práticas de código e melhoria contínua.  
 
@@ -20,7 +20,6 @@ Apaixonado por tecnologia, boas práticas de código e melhoria contínua.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
