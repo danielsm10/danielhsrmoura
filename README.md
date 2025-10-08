@@ -49,3 +49,9 @@ Criado totalmente do zero com **HTML**, **Tailwind**, e integração de **anima�
 ---
 
 💡 *“O aprendizado constante é o melhor investimento que você pode fazer em si mesmo.”*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielHMoura/DanielHMoura/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielHMoura/DanielHMoura/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielHMoura/DanielHMoura/output/github-contribution-grid-snake.svg">
+</picture>
